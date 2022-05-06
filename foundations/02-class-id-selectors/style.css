@@ -1,7 +1,12 @@
-.red-highlight{
+.odd{
 
     background-color: rgb(236, 152, 152);
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddcool{
+
+    font-size: 24px;
 }
 
 #second {
